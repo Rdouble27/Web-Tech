@@ -1,0 +1,10 @@
+<?php
+echo "Even Numbers Are: ";
+
+for ($i=2; $i<=100; $i+=2)	
+{  	  
+echo $i." ";
+} 
+
+ 
+?>
